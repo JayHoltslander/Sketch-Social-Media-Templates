@@ -5,7 +5,7 @@ Social Media Graphic Templates for Sketch
 
 Artboards pre-sized as templates for various social media profiles and feed graphics, ready for use in Sketch for your graphic designing pleasure.
 
-![ScreenShot](preview2.jpg) 
+![ScreenShot](preview.gif) 
 
 Currently contains pages for Twitter, Facebook, Google+, Pinterest, LinkedIn, Tumblr, Instagram, and YouTube. Pull requests for other sizes/ networks are welcome!
 
