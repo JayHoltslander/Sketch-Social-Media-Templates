@@ -22,7 +22,8 @@ About Sketch
 
 Changelog
 ------------
-* 1.1.1 Added Google Display Ads. 
+* 1.1.2 Updated Linkedin.
+* 1.1.1 Added Google Display Ads.
 * 1.1 Added Tumblr, Instagram, and YouTube. Gave all  artboards official brand color background colors. Added safe area size info.
 * 1.0 Forked from [Zoe Rooney](http://zoerooney.com)
 
