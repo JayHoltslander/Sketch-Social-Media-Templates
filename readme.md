@@ -2,7 +2,9 @@
 
 ![ScreenShot](preview1.jpg) 
 
-Artboards pre-sized as templates for various social media profiles and feed graphics, ready for use in Sketch for your graphic designing pleasure.
+Artboards pre-sized as templates for various social media profiles and feed graphics, ready for use in Sketch for your graphic designing pleasure. Includes safe viewable areas for images that display differently on different devices.
+
+**NEW:** Google My Business [Post](https://smallbusiness.googleblog.com/2017/06/make-your-business-stand-out-on-google.html) Images
 
 ![ScreenShot](preview.gif) 
 
