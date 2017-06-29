@@ -16,6 +16,7 @@ Currently contains pages for Twitter, Facebook, Google My Business, Google+, Pin
 * [Canva](https://designschool.canva.com/blog/social-media-image-size/)
 
 ## Changelog
+* 1.1.5 Updated for Google's June 28th changes to My Business Post images
 * 1.1.4 Updated Google My Business images for the new [Posts feature](https://smallbusiness.googleblog.com/2017/06/make-your-business-stand-out-on-google.html)
 * 1.1.3 Added Google My Business.
 * 1.1.2 Updated Linkedin.
